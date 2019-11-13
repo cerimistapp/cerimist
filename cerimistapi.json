@@ -139,6 +139,76 @@
             "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
             "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo1.mp4?alt=media&token=63474b21-49d1-4ffd-b397-f44d28c5fc9f",
             "sinopsis": "sinopsis"
+        },
+	{
+            "id": "1",
+            "title": "TUYUL",
+            "released": "1 Januari 2019",
+            "duration": "10 menit",
+            "creator": "creator 1",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
+            "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo1.mp4?alt=media&token=63474b21-49d1-4ffd-b397-f44d28c5fc9f",
+            "sinopsis": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        {
+            "id": "2",
+            "title": "Cinta Buta",
+            "released": "1 Februari 2019",
+            "duration": "11 menit",
+            "creator": "creator 2",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
+            "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo2.mp4?alt=media&token=e8cf8c9f-9c27-4af9-8382-bc779d0c742c",
+            "sinopsis": "What is Lorem Ipsum?\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type sp"
+        },
+        {
+            "id": "3",
+            "title": "Genderuwo",
+            "released": "3 Maret 2019",
+            "duration": "12 menit",
+            "creator": "creator 3",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
+            "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo3.mp4?alt=media&token=ed155f60-f79a-4779-8039-e52678d0792d",
+            "sinopsis": "What is Lorem Ipsum?\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type sp"
+        },
+        {
+            "id": "4",
+            "title": "Neng Siti",
+            "released": "1 April 2019",
+            "duration": "14 menit",
+            "creator": "creator 4",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
+            "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo4.mp4?alt=media&token=d236f026-5564-481e-8e78-905772e5b9d0",
+            "sinopsis": "What is Lorem Ipsum?\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type sp"
+        },
+        {
+            "id": "5",
+            "title": "Nenek Tua",
+            "released": "1 Mei 2019",
+            "duration": "13 menit",
+            "creator": "creator 5",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
+            "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo5.mp4?alt=media&token=85e2d1d4-4a71-4e28-bfa6-6ac2dc103cd1",
+            "sinopsis": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        {
+            "id": "19",
+            "title": "Majikan Galak",
+            "released": "1 Februari 2019",
+            "duration": "10 menit",
+            "creator": "creator 11",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
+            "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo1.mp4?alt=media&token=63474b21-49d1-4ffd-b397-f44d28c5fc9f",
+            "sinopsis": "sinopsis"
+        },
+        {
+            "id": "20",
+            "title": "Pesugihan Gagak",
+            "released": "1 Desember 2019",
+            "duration": "12,5 menit",
+            "creator": "creator 12",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
+            "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo1.mp4?alt=media&token=63474b21-49d1-4ffd-b397-f44d28c5fc9f",
+            "sinopsis": "sinopsis"
         }
     ]
 }
