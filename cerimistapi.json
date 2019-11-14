@@ -229,16 +229,6 @@
             "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
             "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo1.mp4?alt=media&token=63474b21-49d1-4ffd-b397-f44d28c5fc9f",
             "sinopsis": "sinopsis"
-        },
-        {
-            "id": "20",
-            "title": "Pesugihan Gagak",
-            "released": "1 Desember 2019",
-            "duration": "12,5 menit",
-            "creator": "creator 12",
-            "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
-            "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo1.mp4?alt=media&token=63474b21-49d1-4ffd-b397-f44d28c5fc9f",
-            "sinopsis": "sinopsis"
         }
     ]
 }
