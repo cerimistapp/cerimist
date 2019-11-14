@@ -229,6 +229,46 @@
             "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
             "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo1.mp4?alt=media&token=63474b21-49d1-4ffd-b397-f44d28c5fc9f",
             "sinopsis": "sinopsis"
+        },
+        {
+            "id": "19",
+            "title": "Ngeyel",
+            "released": "1 Februari 2019",
+            "duration": "10 menit",
+            "creator": "creator 11",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
+            "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo1.mp4?alt=media&token=63474b21-49d1-4ffd-b397-f44d28c5fc9f",
+            "sinopsis": "sinopsis"
+        },
+        {
+            "id": "20",
+            "title": "Dukun Beranak",
+            "released": "1 Desember 2019",
+            "duration": "12,5 menit",
+            "creator": "creator 12",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
+            "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo1.mp4?alt=media&token=63474b21-49d1-4ffd-b397-f44d28c5fc9f",
+            "sinopsis": "sinopsis"
+        },
+	{
+            "id": "5",
+            "title": "Hantu Buntung",
+            "released": "1 Mei 2019",
+            "duration": "13 menit",
+            "creator": "creator 5",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
+            "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo5.mp4?alt=media&token=85e2d1d4-4a71-4e28-bfa6-6ac2dc103cd1",
+            "sinopsis": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
+        },
+        {
+            "id": "19",
+            "title": "Pak Tarno",
+            "released": "1 Februari 2019",
+            "duration": "10 menit",
+            "creator": "creator 11",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/image-app%2Fimage.png?alt=media&token=90afc29e-9b06-4231-8af5-562e903b5fe5",
+            "stream_url": "https://firebasestorage.googleapis.com/v0/b/cerimis-app.appspot.com/o/video-app%2Fvideo1.mp4?alt=media&token=63474b21-49d1-4ffd-b397-f44d28c5fc9f",
+            "sinopsis": "sinopsis"
         }
     ]
 }
