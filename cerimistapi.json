@@ -51,7 +51,7 @@
             "sinopsis": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has su"
         },
         {
-            "id": "19",
+            "id": "6",
             "title": "Majikan Galak",
             "released": "1 Februari 2019",
             "duration": "10 menit",
@@ -61,7 +61,7 @@
             "sinopsis": "sinopsis"
         },
         {
-            "id": "20",
+            "id": "7",
             "title": "Pesugihan Gagak",
             "released": "1 Desember 2019",
             "duration": "12,5 menit",
@@ -71,8 +71,8 @@
             "sinopsis": "sinopsis"
         },
 	{
-            "id": "1",
-            "title": "TUYUL",
+            "id": "8",
+            "title": "Drakula Lokal",
             "released": "1 Januari 2019",
             "duration": "10 menit",
             "creator": "creator 1",
@@ -82,7 +82,7 @@
         },
         {
             "id": "2",
-            "title": "Cinta Buta",
+            "title": "Wayang",
             "released": "1 Februari 2019",
             "duration": "11 menit",
             "creator": "creator 2",
@@ -92,7 +92,7 @@
         },
         {
             "id": "3",
-            "title": "Genderuwo",
+            "title": "Batu Nisan",
             "released": "3 Maret 2019",
             "duration": "12 menit",
             "creator": "creator 3",
@@ -102,7 +102,7 @@
         },
         {
             "id": "4",
-            "title": "Neng Siti",
+            "title": "Jaran Goyang",
             "released": "1 April 2019",
             "duration": "14 menit",
             "creator": "creator 4",
@@ -112,7 +112,7 @@
         },
         {
             "id": "5",
-            "title": "Nenek Tua",
+            "title": "Mati Suri",
             "released": "1 Mei 2019",
             "duration": "13 menit",
             "creator": "creator 5",
@@ -122,7 +122,7 @@
         },
         {
             "id": "19",
-            "title": "Majikan Galak",
+            "title": "Sundel Bolong",
             "released": "1 Februari 2019",
             "duration": "10 menit",
             "creator": "creator 11",
@@ -132,7 +132,7 @@
         },
         {
             "id": "20",
-            "title": "Pesugihan Gagak",
+            "title": "Hantu Payung",
             "released": "1 Desember 2019",
             "duration": "12,5 menit",
             "creator": "creator 12",
@@ -142,7 +142,7 @@
         },
 	{
             "id": "1",
-            "title": "TUYUL",
+            "title": "Culi",
             "released": "1 Januari 2019",
             "duration": "10 menit",
             "creator": "creator 1",
@@ -152,7 +152,7 @@
         },
         {
             "id": "2",
-            "title": "Cinta Buta",
+            "title": "Suster Mandi",
             "released": "1 Februari 2019",
             "duration": "11 menit",
             "creator": "creator 2",
@@ -162,7 +162,7 @@
         },
         {
             "id": "3",
-            "title": "Genderuwo",
+            "title": "Pilihan",
             "released": "3 Maret 2019",
             "duration": "12 menit",
             "creator": "creator 3",
@@ -172,7 +172,7 @@
         },
         {
             "id": "4",
-            "title": "Neng Siti",
+            "title": "Janda Penasaran",
             "released": "1 April 2019",
             "duration": "14 menit",
             "creator": "creator 4",
@@ -182,7 +182,7 @@
         },
         {
             "id": "5",
-            "title": "Nenek Tua",
+            "title": "Koma",
             "released": "1 Mei 2019",
             "duration": "13 menit",
             "creator": "creator 5",
@@ -192,7 +192,7 @@
         },
         {
             "id": "19",
-            "title": "Majikan Galak",
+            "title": "Ngeyel",
             "released": "1 Februari 2019",
             "duration": "10 menit",
             "creator": "creator 11",
@@ -202,7 +202,7 @@
         },
         {
             "id": "20",
-            "title": "Pesugihan Gagak",
+            "title": "Dukun Beranak",
             "released": "1 Desember 2019",
             "duration": "12,5 menit",
             "creator": "creator 12",
@@ -212,7 +212,7 @@
         },
 	{
             "id": "5",
-            "title": "Nenek Tua",
+            "title": "Hantu Buntung",
             "released": "1 Mei 2019",
             "duration": "13 menit",
             "creator": "creator 5",
@@ -222,7 +222,7 @@
         },
         {
             "id": "19",
-            "title": "Majikan Galak",
+            "title": "Pak Tarno",
             "released": "1 Februari 2019",
             "duration": "10 menit",
             "creator": "creator 11",
